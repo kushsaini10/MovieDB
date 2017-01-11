@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="popular">Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="error_message">There was some error in connectivity please refresh</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="rating">Rating :</string>
+    <string name="movie_thumbnail">Movie Thumbnail</string>
+</resources>
